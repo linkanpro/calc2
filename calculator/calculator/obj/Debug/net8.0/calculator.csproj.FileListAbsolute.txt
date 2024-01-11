@@ -97,3 +97,4 @@ C:\Users\linus\Desktop\calc2\calculator\calculator\obj\Debug\net8.0\refint\calcu
 C:\Users\linus\Desktop\calc2\calculator\calculator\obj\Debug\net8.0\calculator.pdb
 C:\Users\linus\Desktop\calc2\calculator\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
 C:\Users\linus\Desktop\calc2\calculator\calculator\obj\Debug\net8.0\ref\calculator.dll
+C:\Users\linus\desktop\calc2\calculator\calculator\obj\Debug\net8.0\calculator.sourcelink.json

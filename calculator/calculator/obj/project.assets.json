@@ -5524,11 +5524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linus\\Desktop\\calc2\\calculator\\calculator\\calculator.csproj",
+      "projectUniqueName": "C:\\Users\\linus\\desktop\\calc2\\calculator\\calculator\\calculator.csproj",
       "projectName": "calculator",
-      "projectPath": "C:\\Users\\linus\\Desktop\\calc2\\calculator\\calculator\\calculator.csproj",
+      "projectPath": "C:\\Users\\linus\\desktop\\calc2\\calculator\\calculator\\calculator.csproj",
       "packagesPath": "C:\\Users\\linus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linus\\Desktop\\calc2\\calculator\\calculator\\obj\\",
+      "outputPath": "C:\\Users\\linus\\desktop\\calc2\\calculator\\calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5555,9 +5555,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
